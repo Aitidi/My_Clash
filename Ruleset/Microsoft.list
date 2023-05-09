@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azureiotcentral.com
 DOMAIN-SUFFIX,azurerms.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,th.bing.com
+DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
