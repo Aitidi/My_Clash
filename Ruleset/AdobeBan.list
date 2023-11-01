@@ -1,27 +1,23 @@
-parsers: # array
-  - reg: ^[\s\S]*$
-    yaml:
-      prepend-rules:
-        - DOMAIN-SUFFIX,ic.adobe.io,REJECT
-        - DOMAIN-SUFFIX,7sj9n87sls.adobe.io,REJECT
-        - DOMAIN-SUFFIX,ij0gdyrfka.adobe.io,REJECT
-        - DOMAIN-SUFFIX,lm.licenses.adobe.com,REJECT
-        - DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com,REJECT
-        - DOMAIN-SUFFIX,practivate.adobe.com,REJECT
-        - DOMAIN-SUFFIX,activate.adobe.com,REJECT
-        - DOMAIN-SUFFIX,ereg.adobe.com,REJECT
-        - DOMAIN-SUFFIX,wip.adobe.com,REJECT
-        - DOMAIN-SUFFIX,lmlicenses.wip4.adobe.com,REJECT
-        - DOMAIN-SUFFIX,na1r.services.adobe.com,REJECT
-        - DOMAIN-SUFFIX,hlrcv.stage.adobe.com,REJECT
-        - DOMAIN-SUFFIX,genuine.adobe.com,REJECT
-        - DOMAIN-SUFFIX,prod.adobegenuine.com,REJECT
-        - DOMAIN-SUFFIX,cc-api-data.adobe.io,REJECT
-        # - DOMAIN-SUFFIX,ims-prod06.adobelogin.com,REJECT
-        - DOMAIN-SUFFIX,p13n.adobe.io,REJECT
-        - DOMAIN-SUFFIX,crs.cr.adobe.com,REJECT
-        - DOMAIN-SUFFIX,lcs-cops.adobe.io,REJECT
-        # - DOMAIN-SUFFIX,hbrt.adobe.com,REJECT
-        - DOMAIN-SUFFIX,23ynjitwt5.adobe.io,REJECT
-        - DOMAIN-SUFFIX,butler.adobe.com,REJECT
-        - DOMAIN-SUFFIX,acp-ss-va6c2.adobe.io,REJECT
+DOMAIN-SUFFIX,ic.adobe.io
+DOMAIN-SUFFIX,7sj9n87sls.adobe.io
+DOMAIN-SUFFIX,ij0gdyrfka.adobe.io
+DOMAIN-SUFFIX,lm.licenses.adobe.com
+DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com
+DOMAIN-SUFFIX,practivate.adobe.com
+DOMAIN-SUFFIX,activate.adobe.com
+DOMAIN-SUFFIX,ereg.adobe.com
+DOMAIN-SUFFIX,wip.adobe.com
+DOMAIN-SUFFIX,lmlicenses.wip4.adobe.com
+DOMAIN-SUFFIX,na1r.services.adobe.com
+DOMAIN-SUFFIX,hlrcv.stage.adobe.com
+DOMAIN-SUFFIX,genuine.adobe.com
+DOMAIN-SUFFIX,prod.adobegenuine.com
+DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,ims-prod06.adobelogin.com
+DOMAIN-SUFFIX,p13n.adobe.io
+DOMAIN-SUFFIX,crs.cr.adobe.com
+DOMAIN-SUFFIX,lcs-cops.adobe.io
+DOMAIN-SUFFIX,hbrt.adobe.com
+DOMAIN-SUFFIX,23ynjitwt5.adobe.io
+DOMAIN-SUFFIX,butler.adobe.com
+DOMAIN-SUFFIX,acp-ss-va6c2.adobe.io
