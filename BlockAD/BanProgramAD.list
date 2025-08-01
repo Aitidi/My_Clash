@@ -548,26 +548,7 @@ DOMAIN-SUFFIX,xiuxiu.android.dl.meitu.com
 DOMAIN-SUFFIX,xiuxiu.mobile.meitudata.com
 
 # Miui 小米
-DOMAIN-SUFFIX,a.market.xiaomi.com
-DOMAIN-SUFFIX,ad.xiaomi.com
-DOMAIN-SUFFIX,ad1.xiaomi.com
-DOMAIN-SUFFIX,adv.sec.intl.miui.com
-DOMAIN-SUFFIX,adv.sec.miui.com
-DOMAIN-SUFFIX,bss.pandora.xiaomi.com
-DOMAIN-SUFFIX,d.g.mi.com
-DOMAIN-SUFFIX,data.mistat.xiaomi.com
-DOMAIN-SUFFIX,de.pandora.xiaomi.com
-DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
-DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
-DOMAIN-SUFFIX,migc.g.mi.com
-DOMAIN-SUFFIX,migcreport.g.mi.com
-DOMAIN-SUFFIX,notice.game.xiaomi.com
-DOMAIN-SUFFIX,ppurifier.game.xiaomi.com
-DOMAIN-SUFFIX,r.browser.miui.com
-DOMAIN-SUFFIX,security.browser.miui.com
-DOMAIN-SUFFIX,shenghuo.xiaomi.com
-DOMAIN-SUFFIX,stat.pandora.xiaomi.com
-DOMAIN-SUFFIX,union.mi.com
+
 
 
 # Moji
